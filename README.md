@@ -84,13 +84,18 @@ The project uses four datasets:
 ```text
 Pizza_sales_analysis/
 │
-├── Pizza Sales Analysis.pdf
-├── orders.csv
-├── order_details.csv
-├── pizzas.csv
-├── pizza_types.csv
-└── README.md
-```
+├── README.md
+├── reports/
+│   └── Pizza Sales Analysis.pdf
+│
+├── dashboard/
+│   └── Pizza_Sales_Dashboard.pbix
+│
+└── dataset/
+    ├── orders.csv
+    ├── order_details.csv
+    ├── pizzas.csv
+    └── pizza_types.csv
 
 ---
 
